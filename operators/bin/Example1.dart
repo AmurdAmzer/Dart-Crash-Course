@@ -1,6 +1,5 @@
 void main(List<String> args){
-    final myList = [1, 2, 3];
+    var age = 30;
 
-    myList.add(4);
-    print(myList); 
+    print (age--);   
 }
