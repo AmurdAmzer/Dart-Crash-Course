@@ -1,3 +1,6 @@
 void main(List<String> args) {
-  print('Hello World');
+  myFunction();
+}
+void myFunction(){
+  print("Sample Function")
 }
